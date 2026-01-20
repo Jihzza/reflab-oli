@@ -1,9 +1,3 @@
-Here you go — **one single, clean, professional `README.md` file**, ready to **copy & paste as-is** 👇
-(No explanations, no comments, just the file.)
-
----
-
-```md
 # RefLab
 
 RefLab is a professional learning and training platform for football referees, focused on improving decision-making, rule knowledge, and match performance.
